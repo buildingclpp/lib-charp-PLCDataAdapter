@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace PLCData
+namespace PLCDataAdapter
 {
     public class PLCDataItem { 
         public string Addr = null;

@@ -7,7 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
-using PLCData;
+using PLCDataAdapter;
 using System.Diagnostics;
 using ActProgTypeLib;
 
@@ -22,7 +22,7 @@ namespace TestLib
 
         private void Form1_Load(object sender, EventArgs e)
         {
-            var D10100 = new PLCData.PLCDataItem("D10160", "Temp01");
+            var D10100 = new PLCDataAdapter.PLCDataItem("D10160", "Temp01");
             Debug.WriteLine(D10100);
             ActProgType plc = new ActProgType();
             plc.ActCpuType = 0x90;

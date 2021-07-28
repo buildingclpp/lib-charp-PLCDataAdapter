@@ -5,7 +5,7 @@ VisualStudioVersion = 16.0.31424.327
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestLib", "TestLib\TestLib.csproj", "{DD646304-9DCA-4989-A098-608B9681B4C4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PLCData", "PLCData\PLCData.csproj", "{84B6600B-8E26-4391-A038-8FB491FDE9D3}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PLCDataAdapter", "PLCData\PLCDataAdapter.csproj", "{84B6600B-8E26-4391-A038-8FB491FDE9D3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

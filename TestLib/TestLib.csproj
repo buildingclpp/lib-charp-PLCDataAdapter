@@ -82,9 +82,9 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\PLCData\PLCData.csproj">
+    <ProjectReference Include="..\PLCData\PLCDataAdapter.csproj">
       <Project>{84b6600b-8e26-4391-a038-8fb491fde9d3}</Project>
-      <Name>PLCData</Name>
+      <Name>PLCDataAdapter</Name>
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>

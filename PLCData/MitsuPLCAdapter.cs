@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 using ActProgTypeLib;
 
-namespace PLCData
+namespace PLCDataAdapter
 {
     public class MitsuPLCAdapter
     {
