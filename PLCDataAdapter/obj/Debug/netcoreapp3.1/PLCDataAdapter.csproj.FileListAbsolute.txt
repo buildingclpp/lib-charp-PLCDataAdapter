@@ -1,9 +1,0 @@
-C:\Users\chale\source\repos\PLCDataAdapter\PLCDataAdapter\bin\Debug\netcoreapp3.1\PLCDataAdapter.deps.json
-C:\Users\chale\source\repos\PLCDataAdapter\PLCDataAdapter\bin\Debug\netcoreapp3.1\PLCDataAdapter.dll
-C:\Users\chale\source\repos\PLCDataAdapter\PLCDataAdapter\bin\Debug\netcoreapp3.1\PLCDataAdapter.pdb
-C:\Users\chale\source\repos\PLCDataAdapter\PLCDataAdapter\obj\Debug\netcoreapp3.1\PLCDataAdapter.AssemblyInfoInputs.cache
-C:\Users\chale\source\repos\PLCDataAdapter\PLCDataAdapter\obj\Debug\netcoreapp3.1\PLCDataAdapter.AssemblyInfo.cs
-C:\Users\chale\source\repos\PLCDataAdapter\PLCDataAdapter\obj\Debug\netcoreapp3.1\PLCDataAdapter.csproj.CoreCompileInputs.cache
-C:\Users\chale\source\repos\PLCDataAdapter\PLCDataAdapter\obj\Debug\netcoreapp3.1\PLCDataAdapter.dll
-C:\Users\chale\source\repos\PLCDataAdapter\PLCDataAdapter\obj\Debug\netcoreapp3.1\PLCDataAdapter.pdb
-C:\Users\chale\source\repos\PLCDataAdapter\PLCDataAdapter\obj\Debug\netcoreapp3.1\PLCDataAdapter.csproj.AssemblyReference.cache

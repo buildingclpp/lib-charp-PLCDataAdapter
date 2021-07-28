@@ -1,8 +1,0 @@
-C:\Users\chale\source\repos\PLCDataAdapter\PlcDataLib\bin\Debug\netcoreapp3.1\PlcDataLib.deps.json
-C:\Users\chale\source\repos\PLCDataAdapter\PlcDataLib\bin\Debug\netcoreapp3.1\PlcDataLib.dll
-C:\Users\chale\source\repos\PLCDataAdapter\PlcDataLib\bin\Debug\netcoreapp3.1\PlcDataLib.pdb
-C:\Users\chale\source\repos\PLCDataAdapter\PlcDataLib\obj\Debug\netcoreapp3.1\PlcDataLib.AssemblyInfoInputs.cache
-C:\Users\chale\source\repos\PLCDataAdapter\PlcDataLib\obj\Debug\netcoreapp3.1\PlcDataLib.AssemblyInfo.cs
-C:\Users\chale\source\repos\PLCDataAdapter\PlcDataLib\obj\Debug\netcoreapp3.1\PlcDataLib.csproj.CoreCompileInputs.cache
-C:\Users\chale\source\repos\PLCDataAdapter\PlcDataLib\obj\Debug\netcoreapp3.1\PlcDataLib.dll
-C:\Users\chale\source\repos\PLCDataAdapter\PlcDataLib\obj\Debug\netcoreapp3.1\PlcDataLib.pdb
