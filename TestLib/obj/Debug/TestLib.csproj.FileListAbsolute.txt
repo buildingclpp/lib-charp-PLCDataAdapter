@@ -1,0 +1,15 @@
+C:\Users\chale\source\repos\PLCDataAdapter\TestLib\obj\Debug\TestLib.csproj.AssemblyReference.cache
+C:\Users\chale\source\repos\PLCDataAdapter\TestLib\obj\Debug\TestLib.Form1.resources
+C:\Users\chale\source\repos\PLCDataAdapter\TestLib\obj\Debug\TestLib.Properties.Resources.resources
+C:\Users\chale\source\repos\PLCDataAdapter\TestLib\obj\Debug\TestLib.csproj.GenerateResource.cache
+C:\Users\chale\source\repos\PLCDataAdapter\TestLib\obj\Debug\TestLib.csproj.CoreCompileInputs.cache
+C:\Users\chale\source\repos\PLCDataAdapter\TestLib\bin\Debug\TestLib.exe.config
+C:\Users\chale\source\repos\PLCDataAdapter\TestLib\bin\Debug\TestLib.exe
+C:\Users\chale\source\repos\PLCDataAdapter\TestLib\bin\Debug\TestLib.pdb
+C:\Users\chale\source\repos\PLCDataAdapter\TestLib\bin\Debug\PLCData.dll
+C:\Users\chale\source\repos\PLCDataAdapter\TestLib\bin\Debug\PLCData.pdb
+C:\Users\chale\source\repos\PLCDataAdapter\TestLib\obj\Debug\TestLib.csproj.CopyComplete
+C:\Users\chale\source\repos\PLCDataAdapter\TestLib\obj\Debug\TestLib.exe
+C:\Users\chale\source\repos\PLCDataAdapter\TestLib\obj\Debug\TestLib.pdb
+C:\Users\chale\source\repos\PLCDataAdapter\TestLib\obj\Debug\Interop.ActProgTypeLib.dll
+C:\Users\chale\source\repos\PLCDataAdapter\TestLib\obj\Debug\TestLib.csproj.ResolveComReference.cache

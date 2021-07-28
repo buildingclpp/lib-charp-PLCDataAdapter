@@ -1,0 +1,8 @@
+C:\Users\chale\source\repos\PLCDataAdapter\PLCData\bin\Debug\PLCData.dll
+C:\Users\chale\source\repos\PLCDataAdapter\PLCData\bin\Debug\PLCData.pdb
+C:\Users\chale\source\repos\PLCDataAdapter\PLCData\obj\Debug\PLCData.csproj.AssemblyReference.cache
+C:\Users\chale\source\repos\PLCDataAdapter\PLCData\obj\Debug\PLCData.csproj.CoreCompileInputs.cache
+C:\Users\chale\source\repos\PLCDataAdapter\PLCData\obj\Debug\PLCData.dll
+C:\Users\chale\source\repos\PLCDataAdapter\PLCData\obj\Debug\PLCData.pdb
+C:\Users\chale\source\repos\PLCDataAdapter\PLCData\obj\Debug\Interop.ActProgTypeLib.dll
+C:\Users\chale\source\repos\PLCDataAdapter\PLCData\obj\Debug\PLCData.csproj.ResolveComReference.cache
